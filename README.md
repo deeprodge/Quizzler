@@ -4,7 +4,7 @@
 For help getting started with Flutter, view our online documentation.
 
 ### The Screen
-This is how the it looks like on android device
+This is how the it looks like on android device <br>
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
 ## To Run the app in your local machine
