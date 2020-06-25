@@ -6,8 +6,7 @@ For help getting started with Flutter, view our online [documentation](https://f
 ### The Screen
 This is how the it looks like on android device <br>
 
-![Finished App](https://github.com/deeprodge/Quizzler/blob/master/App%20UI.png)
-
+<img src="https://github.com/deeprodge/Quizzler/blob/master/App%20UI.png" alt="Size Limit CLI" width="540
 
 ## To Run the app in your local machine
 Clone the repository and user
