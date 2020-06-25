@@ -1,7 +1,7 @@
 # Quizzler ❓
 
 ## Getting Started
-For help getting started with Flutter, view our online documentation.
+For help getting started with Flutter, view our online [documentation](https://flutter.dev/).
 
 ### The Screen
 This is how the it looks like on android device <br>
@@ -16,5 +16,8 @@ flutter run
 ```
 
 to hot reload the project press,
-
-```r```
+```
+r
+```
+## Built By
+- [Deep Rodge](https://github.com/deeprodge)
