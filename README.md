@@ -6,7 +6,7 @@ For help getting started with Flutter, view our online [documentation](https://f
 ### The Screen
 This is how the it looks like on android device <br>
 
-<img src="./AppUI.png" alt="Size Limit CLI" width="540>
+<img src="./AppUI.png" alt="Size Limit CLI" width="738">
 
 ## To Run the app in your local machine
 Clone the repository and user
