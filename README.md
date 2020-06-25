@@ -1,19 +1,16 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Quizzler ❓
 
+## Getting Started
+For help getting started with Flutter, view our online documentation.
 
-# Quizzler Challenge - Starting Files
+### The Screen
+This is how the it looks like on android device
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-- Clone this repository to your local system.
+## To Run the app in your local machine
+Clone the repository and user
+'flutter run'
 
-- Read the docs for the package we're using:
+to hot reload the project press,
 
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+'r'
