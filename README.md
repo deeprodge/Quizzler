@@ -11,7 +11,9 @@ This is how the it looks like on android device <br>
 
 ## To Run the app in your local machine
 Clone the repository and user
-'''flutter run'''
+'''
+flutter run
+'''
 
 to hot reload the project press,
 
