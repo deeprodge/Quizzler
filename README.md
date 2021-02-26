@@ -23,7 +23,7 @@ r
 ```
 MIT License
 
-Copyright (c) 2018 Himanshu Singh
+Copyright (c) 2020 Deep Rodge
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
